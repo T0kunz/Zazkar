@@ -1,0 +1,378 @@
+{
+  "N5": [
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "grammar": "Noun",
+      "meaning": "school"
+    },
+    {
+      "word": "赤",
+      "reading": "あか",
+      "grammar": "Noun, Noun which may take the genitive case particle 'no'",
+      "meaning": "red, crimson, scarlet"
+    },
+    {
+      "word": "言う",
+      "reading": "い",
+      "grammar": "Godan verb with 'u' ending",
+      "meaning": "to say, to utter, to declare"
+    },
+    {
+      "word": "難しい",
+      "reading": "むずか",
+      "grammar": "I-adjective",
+      "meaning": "difficult, hard, troublesome, complicated, serious (disease, problem, etc.)"
+    },
+    {
+      "word": "聞く",
+      "reading": "き",
+      "grammar": "Godan verb with 'ku' ending, Transitive verb",
+      "meaning": "to hear"
+    },
+    {
+      "word": "疲れる",
+      "reading": "つか",
+      "grammar": "Ichidan verb, Intransitive verb",
+      "meaning": "to get tired, to tire, to get fatigued, to become exhausted, to grow weary"
+    },
+    {
+      "word": "消す",
+      "reading": "け",
+      "grammar": "Godan verb with 'su' ending, Transitive verb",
+      "meaning": "to erase, to rub out, to rub off, to cross out, to delete"
+    },
+    {
+      "word": "曇る",
+      "reading": "くも",
+      "grammar": "Godan verb with 'ru' ending, Intransitive verb",
+      "meaning": "to get cloudy, to cloud over, to become overcast"
+    },
+    {
+      "word": "風呂",
+      "reading": "ふろ",
+      "grammar": "Noun",
+      "meaning": "bath"
+    },
+    {
+      "word": "醤油",
+      "reading": "しょうゆ",
+      "grammar": "Noun",
+      "meaning": "soy sauce, shoyu"
+    },
+    {
+      "word": "四",
+      "reading": "し",
+      "grammar": "Numeric",
+      "meaning": "four, 4"
+    },
+    {
+      "word": "他",
+      "reading": "ほか",
+      "grammar": "Noun",
+      "meaning": "another place, some other place, somewhere else, outside"
+    },
+    {
+      "word": "七日",
+      "reading": "なのか",
+      "grammar": "Noun",
+      "meaning": "7th day of the month"
+    },
+    {
+      "word": "字引",
+      "reading": "じびき",
+      "grammar": "Noun",
+      "meaning": "dictionary"
+    }
+  ],
+  "N4": [
+    {
+      "word": "自分",
+      "reading": "じぶん",
+      "grammar": "Pronoun",
+      "meaning": "myself, yourself, oneself, himself, herself"
+    },
+    {
+      "word": "国",
+      "reading": "くに",
+      "grammar": "Noun",
+      "meaning": "country, state"
+    },
+    {
+      "word": "入る",
+      "reading": "はい",
+      "grammar": "Godan verb with 'ru' ending, Intransitive verb",
+      "meaning": "to enter, to come in, to go in, to get in, to arrive"
+    },
+    {
+      "word": "習う",
+      "reading": "なら",
+      "grammar": "Godan verb with 'u' ending, Transitive verb",
+      "meaning": "to take lessons in, to be taught, to learn (from a teacher), to study (under a teacher), to get training in"
+    },
+    {
+      "word": "閉まる",
+      "reading": "し",
+      "grammar": "Godan verb with 'ru' ending, Intransitive verb",
+      "meaning": "to be shut, to close, to be closed"
+    },
+    {
+      "word": "涼しい",
+      "reading": "すず",
+      "grammar": "I-adjective",
+      "meaning": "cool, refreshing"
+    },
+    {
+      "word": "六つ",
+      "reading": "むっ",
+      "grammar": "Numeric",
+      "meaning": "six"
+    },
+    {
+      "word": "小さな",
+      "reading": "ちい",
+      "grammar": "Pre-noun adjectival",
+      "meaning": "small, little, tiny"
+    },
+    {
+      "word": "中",
+      "reading": "なか",
+      "grammar": "Noun",
+      "meaning": "inside, interior"
+    },
+    {
+      "word": "前",
+      "reading": "まえ",
+      "grammar": "Noun",
+      "meaning": "in front (of), before (e.g. a building)"
+    },
+    {
+      "word": "下",
+      "reading": "した",
+      "grammar": "Noun",
+      "meaning": "below, down, under, younger (e.g. daughter)"
+    },
+    {
+      "word": "二十歳",
+      "reading": "はたち",
+      "grammar": "Noun",
+      "meaning": "20 years old"
+    }
+  ],
+  "N3": [
+    {
+      "word": "良い",
+      "reading": "よ",
+      "grammar": "I-adjective",
+      "meaning": "good, excellent, fine, nice, pleasant, agreeable"
+    },
+    {
+      "word": "新しい",
+      "reading": "あたら",
+      "grammar": "I-adjective",
+      "meaning": "new, novel, fresh, recent, latest, up-to-date, modern"
+    },
+    {
+      "word": "欲しい",
+      "reading": "ほ",
+      "grammar": "I-adjective",
+      "meaning": "wanting (to have), desiring, wishing for"
+    },
+    {
+      "word": "会う",
+      "reading": "あ",
+      "grammar": "Godan verb with 'u' ending, Intransitive verb",
+      "meaning": "to meet, to encounter, to see"
+    },
+    {
+      "word": "重い",
+      "reading": "おも",
+      "grammar": "I-adjective",
+      "meaning": "heavy, weighty"
+    },
+    {
+      "word": "閉める",
+      "reading": "し",
+      "grammar": "Ichidan verb, Transitive verb",
+      "meaning": "to close, to shut"
+    },
+    {
+      "word": "三日",
+      "reading": "みっか",
+      "grammar": "Noun",
+      "meaning": "3rd day of the month"
+    },
+    {
+      "word": "一月",
+      "reading": "ひとつき",
+      "grammar": "Noun",
+      "meaning": "one month"
+    }
+  ],
+  "N2": [
+    {
+      "word": "土曜日",
+      "reading": "どようび",
+      "grammar": "Noun, Adverb",
+      "meaning": "Saturday"
+    },
+    {
+      "word": "高い",
+      "reading": "たか",
+      "grammar": "I-adjective",
+      "meaning": "high, tall"
+    },
+    {
+      "word": "物",
+      "reading": "もの",
+      "grammar": "Noun",
+      "meaning": "thing, object, article, stuff, substance"
+    },
+    {
+      "word": "一日",
+      "reading": "いちにち",
+      "grammar": "Noun, Adverb",
+      "meaning": "one day"
+    },
+    {
+      "word": "覚える",
+      "reading": "おぼ",
+      "grammar": "Ichidan verb, Transitive verb",
+      "meaning": "to memorize, to memorise, to commit to memory, to learn by heart, to bear in mind, to remember"
+    },
+    {
+      "word": "奥さん",
+      "reading": "おく",
+      "grammar": "Noun",
+      "meaning": "wife, your wife, his wife, married lady, madam"
+    },
+    {
+      "word": "狭い",
+      "reading": "せま",
+      "grammar": "I-adjective",
+      "meaning": "narrow, confined, small, cramped"
+    },
+    {
+      "word": "八つ",
+      "reading": "やっ",
+      "grammar": "Numeric",
+      "meaning": "eight"
+    },
+    {
+      "word": "一昨日",
+      "reading": "おととい",
+      "grammar": "Noun, Adverb",
+      "meaning": "day before yesterday"
+    },
+    {
+      "word": "方",
+      "reading": "かた",
+      "grammar": "Noun",
+      "meaning": "direction, way"
+    },
+    {
+      "word": "誰か",
+      "reading": "だれ",
+      "grammar": "Pronoun",
+      "meaning": "someone, somebody"
+    },
+    {
+      "word": "其れでは",
+      "reading": "そ",
+      "grammar": "Conjunction",
+      "meaning": "well, ..., right, ..., now, ..."
+    },
+    {
+      "word": "四日",
+      "reading": "よっか",
+      "grammar": "Noun",
+      "meaning": "4th day of the month"
+    },
+    {
+      "word": "黒",
+      "reading": "くろ",
+      "grammar": "Noun",
+      "meaning": "black"
+    }
+  ],
+  "N1": [
+    {
+      "word": "一番",
+      "reading": "いちばん",
+      "grammar": "Noun, Noun which may take the genitive case particle 'no'",
+      "meaning": "number one, first, first place"
+    },
+    {
+      "word": "見る",
+      "reading": "み",
+      "grammar": "Ichidan verb, Transitive verb",
+      "meaning": "to see, to look, to watch, to view, to observe"
+    },
+    {
+      "word": "辞書",
+      "reading": "じしょ",
+      "grammar": "Noun",
+      "meaning": "dictionary, lexicon"
+    },
+    {
+      "word": "書く",
+      "reading": "か",
+      "grammar": "Godan verb with 'ku' ending, Transitive verb",
+      "meaning": "to write, to compose, to pen"
+    },
+    {
+      "word": "住む",
+      "reading": "す",
+      "grammar": "Godan verb with 'mu' ending, Intransitive verb",
+      "meaning": "to live (of humans), to reside, to inhabit, to dwell, to abide"
+    },
+    {
+      "word": "同じ",
+      "reading": "おな",
+      "grammar": "Noun or verb acting prenominally, Na-adjective",
+      "meaning": "same, identical, equal, alike, equivalent"
+    },
+    {
+      "word": "初めて",
+      "reading": "はじ",
+      "grammar": "Adverb , Noun which may take the genitive case particle 'no'",
+      "meaning": "for the first time"
+    },
+    {
+      "word": "空",
+      "reading": "そら",
+      "grammar": "Noun",
+      "meaning": "sky, the air, the heavens"
+    },
+    {
+      "word": "渡る",
+      "reading": "わた",
+      "grammar": "Godan verb with 'ru' ending, Intransitive verb",
+      "meaning": "to cross over, to go across"
+    },
+    {
+      "word": "吸う",
+      "reading": "す",
+      "grammar": "Godan verb with 'u' ending, Transitive verb",
+      "meaning": "to smoke, to breathe in, to inhale"
+    },
+    {
+      "word": "一",
+      "reading": "いち",
+      "grammar": "Numeric, Prefix",
+      "meaning": "one, 1"
+    },
+    {
+      "word": "零",
+      "reading": "れい",
+      "grammar": "Noun",
+      "meaning": "zero, nought"
+    },
+    {
+      "word": "辛い",
+      "reading": "から",
+      "grammar": "I-adjective",
+      "meaning": "spicy, hot"
+    }
+  ]
+}
